@@ -5,7 +5,7 @@
 
 <p> 💻 Стек технологий: <br> 
 — Python (pandas, numpy, seaborn, matplotlib); <br> 
-— SQL (MYSQL, PostgreSQL); <br> 
+— SQL (MySQL, PostgreSQL); <br> 
 — Среда PyCharm
 — Визуализация Power BI; <br> 
 — Прочее: Google Sheets, Excel (ВПР, сводные таблицы, функции), MS PowerPoint <br> <p>
@@ -15,7 +15,7 @@
 
 <p> Ключевые навыки: <br> 
   
-- Получение данных с помощью языка запросов SQL (ссылка) <br> 
+- <a href="https://github.com/m-yastreb/sql-practice-analysis">Получение данных с помощью запросов MySQL</a> <br> 
 
 - Очистка и трансформация данных с помощью Python (ссылка) <br> 
 
