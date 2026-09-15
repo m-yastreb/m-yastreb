@@ -1,14 +1,14 @@
-<h1 align="center">Добро пожаловать на мою страничку!</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> Тут любят разбираться в сложных процессах, искать причины и находить общие закономерности.</h3>
-<p>
-Меня зовут Маша и я аналитик данных. <br>  Работаю с Python, SQL, таблицами и визуализицией. <p>
+<h3 align="center"> Добро пожаловать на мою страничку!  
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/> </h3>
+<br> 
+Меня зовут Маша и я аналитик данных. <br> Я люблю разбираться в сложных процессах, искать причины и находить закономерности. В этом мне помогают Python, SQL, таблицы и визуализиция. <p>
 
 <p> 💻 Стек технологий: <br> 
-— Python (библиотека requests_html, pandas, pandahouse, numpy, seaborn, matplotlib); <br> 
-— SQL (Clickhouse, Tabix); <br> 
-— визуализация Power BI; <br> 
-— прочее: Google Sheets, Excel (ВПР, сводные таблицы, функции), MS PowerPoint <br> <p>
+— Python (pandas, numpy, seaborn, matplotlib); <br> 
+— SQL (MYSQL, PostgreSQL); <br> 
+— Среда PyCharm
+— Визуализация Power BI; <br> 
+— Прочее: Google Sheets, Excel (ВПР, сводные таблицы, функции), MS PowerPoint <br> <p>
 
 
 <p> 💁 Актуальное резюме: ссылка <p>
@@ -26,8 +26,6 @@
 
 
 <!--
-**m-yastreb/m-yastreb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
