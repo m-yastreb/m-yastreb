@@ -6,7 +6,7 @@
 <p> 💻 Стек технологий: <br> 
 — Python (pandas, numpy, seaborn, matplotlib); <br> 
 — SQL (MySQL, PostgreSQL); <br> 
-— Среда PyCharm
+— Среда PyCharm  <br> 
 — Визуализация Power BI; <br> 
 — Прочее: Google Sheets, Excel (ВПР, сводные таблицы, функции), MS PowerPoint <br> <p>
 
