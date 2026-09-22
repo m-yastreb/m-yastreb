@@ -17,7 +17,7 @@
   
 - <a href="https://github.com/m-yastreb/sql-practice-analysis">Получение данных с помощью запросов MySQL</a> <br> 
 
-- Очистка и трансформация данных с помощью Python (ссылка) <br> 
+- <a href="https://github.com/m-yastreb/python-practice-analysis">Очистка и трансформация данных с помощью Python</a> <br>  
 
 Пройденный мной курсы 
 
