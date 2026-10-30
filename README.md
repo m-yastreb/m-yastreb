@@ -7,8 +7,9 @@
 — Python (pandas, numpy, seaborn, matplotlib); <br> 
 — SQL (MySQL, PostgreSQL, SQLite); <br> 
 — Среда IntelliJ IDEA (PyCharm) <br> 
-— Визуализация Power BI; <br> 
-— Прочее: Google Sheets, Excel (ВПР, сводные таблицы, функции), MS PowerPoint <br> <p>
+— Power BI; <br> 
+— AI-ассистент GigaCode для рутинных задач; <br> 
+— Google Sheets, Excel (ВПР, сводные таблицы, функции), MS PowerPoint <br> <p>
 
 
 <p> 💁 <a href="https://hh.ru/resume/e79abe23ff0f8121af0039ed1f497675584a56">Актуальное резюме</a> <br> <p> 
