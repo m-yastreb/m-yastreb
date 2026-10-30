@@ -6,7 +6,7 @@
 <p> 💻 Стек технологий: <br> 
 — Python (pandas, numpy, seaborn, matplotlib); <br> 
 — SQL (MySQL, PostgreSQL, SQLite); <br> 
-— Среда IntelliJ IDEA (PyCharm) <br> 
+— IntelliJ IDEA (PyCharm) <br> 
 — Power BI; <br> 
 — AI-ассистент GigaCode для рутинных задач; <br> 
 — Google Sheets, Excel (ВПР, сводные таблицы, функции), MS PowerPoint <br> <p>
