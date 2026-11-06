@@ -14,7 +14,7 @@
 
 <p> 💁 <a href="https://hh.ru/resume/e79abe23ff0f8121af0039ed1f497675584a56">Актуальное резюме</a> <br> <p> 
 
-<p> ✅ Ключевые навыки: <br> 
+<p> ✅ Мои проекты: <br> 
   
 - <a href="https://github.com/m-yastreb/sql-practice-analysis">Получение данных с помощью запросов MySQL</a> <br> 
 
